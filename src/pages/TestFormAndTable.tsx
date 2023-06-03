@@ -229,11 +229,7 @@ const TestFormAndTable = () => {
                   },
                 ]}
               >
-                <DatePicker
-                  showTime
-                  format="YYYY-MM-DDTHH:mm:ss.SSSZ"
-                  style={{ width: "150px" }}
-                />
+                <DatePicker style={{ width: "150px" }} />
               </Form.Item>
               <Form.Item
                 name="nationality"
