@@ -1,0 +1,31 @@
+$primary:#ffa200; 
+$secondary:#6eda78 ;
+
+.primary-color{
+    background: $primary;
+}
+.secondary-color{
+    background: $secondary;
+}
+.page-container{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 2rem;
+    background: linear-gradient(60deg, $secondary 0%, $primary 90%);
+}
+
+
+// antd 
+.box-antd{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 20rem;
+    height: 10rem;
+    
+}

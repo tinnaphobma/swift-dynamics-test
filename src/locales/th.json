@@ -1,0 +1,61 @@
+{
+  "Test1": "แบบทดสอบที่1",
+  "Layout&Style": "การจัดวางและรูปแบบ",
+  "Test2": "แบบทดสอบที่ 2",
+  "Form & Table": "ฟอร์ม และตาราง",
+  "language": "ภาษา",
+  "form management": "การจัดการฟอร์ม",
+  "Back to homepage": "กลับสู่หน้าหลัก",
+  "column": {
+    "Name": "ชื่อ",
+    "Gender": "เพศ",
+    "Phone Number": "เบอร์โทรศัพท์",
+    "Nationality": "สัญชาติ",
+    "Actions": "การจัดการ"
+  },
+  "form": {
+    "placeholder": {
+      "please select your nationality": "กรุณาเลืกสัญชาติ",
+      "Enter phone number": "กรุณาใส่เบอร์โทรศัพท์"
+    },
+    "article": "คำนำหน้าชื่อ",
+    "articleOption": {
+      "Mr.": "นาย",
+      "Mrs.": "นาง",
+      "Miss": "นางสาว",
+      "Ms.": "นางสาว"
+    },
+    "name": "ชื่อ",
+    "Surname": "ชื่อสกุล",
+    "Birthday": "วันเกิด",
+    "nationality": "สัญชาติ",
+    "nationalityOption": {
+      "thai": "ไทย",
+      "american": "อเมริกา",
+      "cannadian": "แคนนาดา"
+    },
+    "ID Card Number": "รหัสประจำตัวประชาชน",
+    "Gender": "เพศ",
+    "genderOption": {
+      "male": "ชาย",
+      "female": "หญิง",
+      "other": "อื่นๆ"
+    },
+    "Phone Number": "เบอร์มือถือ",
+    "Passport Number": "เลขพาสสปอร์ต",
+    "Salary": "เงินเดือน"
+  },
+  "massage": {
+    "Please enter your name": "กรุณากรอกชื่อ",
+    "Please enter your surname": "กรุณากรอกชื่อสกุล",
+    "Please enter your nationality": "กรุณากรอกสัญชาติ",
+    "Please enter your phone number": "กรุณากรอกเบอร์มือถือ",
+    "Please enter your salary": "กรุณากรอกเงินเดือน",
+    "Please enter a valid salary": "กรุณากรอกเงินเดือนให้ถูก"
+  },
+  "Clear": "เคลีย",
+  "Submit": "ส่ง",
+  "Edit": "แก้ไข",
+  "Select": "เลือก",
+  "Delete": "ลบ"
+}

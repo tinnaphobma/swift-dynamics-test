@@ -1,0 +1,66 @@
+{
+  "Test1": "Test 1",
+  "Layout&Style": "Layout&Style",
+  "Test2": "Test 2",
+  "Form & Table": "Form & Table",
+  "language": "Language",
+  "form management": "form management",
+  "Back to homepage": "Back to homepage",
+  "column": {
+    "Name": "Name",
+    "Gender": "Gender",
+    "Phone Number": "Phone Number",
+    "Nationality": "Nationality",
+    "Actions": "Actions"
+  },
+  "form": {
+    "placeholder": {
+      "please select your nationality": "please select your nationality",
+      "Enter phone number": "Enter phone number"
+    },
+    "article": "Article",
+    "articleOption": {
+      "Mr.": "Mr.",
+      "Mrs.": "Mrs.",
+      "Miss": "Miss.",
+      "Ms.": "Ms."
+    },
+    "name": "Name",
+    "Surname": "Surname",
+    "Birthday": "Birthday",
+    "nationality": "nationality",
+    "nationalityOption": {
+      "thai": "thai",
+      "american": "american",
+      "cannadian": "cannadian"
+    },
+    "ID Card Number": "ID Card Number",
+    "Gender": "Gender",
+    "genderOption": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "Phone Number": "Phone Number",
+    "Passport Number": "Passport Number",
+    "Salary": "Salary"
+  },
+  "massage": {
+    "Please enter your name": "Please enter your name",
+    "Please enter your surname": "Please enter your surname",
+    "Please enter your nationality": "Please enter your nationality",
+    "Please enter your phone number": "Please enter your surname",
+    "Please enter your salary": "Please enter your salary",
+    "Please enter a valid salary": "Please enter a valid salary"
+  },
+  "Clear": "Clear",
+  "Submit": "Submit",
+  "Edit": "Edit",
+  "Select": "Checkbox",
+  "Delete": "Delete",
+  "layout": {
+    "Moveshape to left": "Moveshape to left",
+    "Moveshape position": "Moveshape position",
+    "Moveshape to right": "Moveshape to right"
+  }
+}
